@@ -1,0 +1,12 @@
+client, date,    product, quantity, price, comment
+Jane, "date: 10.11.2018", apple, 1,   "price: 4.5", "some comment"
+Jane, "date: 10.11.2018", lemon, 0.2, "price: 12.5"
+Jane, "date: 12.11.2018", cake,   ,   "price: 14.5", "коментар"
+John, "date  05.10.2018", apple, 2,   "prices: 7.5"
+
+John, "d     04.07.2018", apple, 1,   "prices: 2"
+John, "01.05.2018",       apple, 1,   "pr: 7"
+Mike, "дата 10.11.2018", grape,  ,   "prices: 20,5", "коментар, коментар"
+Mike, "05.10.2018",      apple, 1,   "prices: 20"
+
+Mike, "date 10.11.2018", grape, 0.5, "prices: 20.5", "コメント"
